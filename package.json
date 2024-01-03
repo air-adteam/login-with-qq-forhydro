@@ -1,0 +1,8 @@
+{
+  "name": "@hydrooj/login-qq",
+  "version": "1.0.0",
+  "description": "hydro的QQ登录组件",
+  "main": "index.ts",
+  "author": "air.",
+  "license": "AGPL-3.0-or-later"
+}
